@@ -1,0 +1,16 @@
+export const names= [
+{text:"Ario Speedwagon",icon:"images/img.svg",id:1},
+{text:"Petey Cruiser",icon:"images/img.svg",id:2},
+{text:"Anna Sthesia",icon:"images/img.svg",id:3},
+{text:"Paul Molive",icon:"images/img.svg",id:4},
+{text:"Anna Mull",icon:"images/img.svg",id:5},
+{text:"Gail Forcewind",icon:"images/img.svg",id:6},
+{text:"Paige Turner",icon:"images/img.svg",id:7},
+{text:"Bob Frapples",icon:"images/img.svg",id:8},
+{text:"Walter Melon",icon:"images/img.svg",id:9},
+{text:"Nick R. Bocker",icon:"images/img.svg",id:10},
+{text:"Barb Ackue",icon:"images/img.svg",id:11},
+{text:"Buck Kinnear",icon:"images/img.svg",id:12},
+{text:"Greta Life",icon:"images/img.svg",id:13},
+{text:"Ira Membrit",icon:"images/img.svg",id:14},
+{text:"Shonda Leer",icon:"images/img.svg",id:15}]
